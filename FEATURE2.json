@@ -1,0 +1,32 @@
+[
+    {
+        "id": "cardiovascular_calculator_hypertension_only", "name": "Cardiovascular Calculator (hypertension only)",  "systemName": "cardiovascular", "displayName": "Hypertension", "vbmsName": "Cardiovascular System", "enabledEnvironements": []
+    },
+    {
+        "id": "endocrine_calculator", "name": "Endocrine Calculator", "systemName": "endocrine", "displayName": "Endocrine", "vbmsName": "Endocrine System", "enabledEnvironements": ["production", "beta", "development"]
+    },
+    {
+        "id": "eye_conditions_calculator_visual_only", "name": "Eye Conditions Calculator (visual impairment only)", "systemName": "vision", "displayName": "Vision", "vbmsName": "Organs of Special Sense (Vision)", "enabledEnvironements": ["production", "beta", "development"]
+    },
+    {
+        "id": "gastrointestinal_calculator", "name": "Gastrointestinal Calculator", "systemName": "digestive", "displayName": "Digestive", "vbmsName": "Digestive System", "enabledEnvironements": ["production", "beta", "development"]
+    },
+    {
+    "id": "genitourniary_calculator", "name": "Genitourinary Calculator", "systemName": "genitourinary", "displayName": "Genitourinary", "vbmsName": "Genitourinary System", "enabledEnvironements": ["production", "beta", "development"]
+    },
+    {
+        "id": "gynecological_calculator", "name": "Gynecological Calculator", "systemName": "gynecological", "displayName": "Gynecological", "vbmsName": "Gynecological Disorders", "enabledEnvironements": ["production", "beta", "development"]
+    },
+    {
+        "id": "hemic_lymphatic_calculator", "name": "The Hematologic and Lymphatic Calculator", "systemName": "hematologicAndLymphatic", "displayName": "Hematologic and Lymphatic", "vbmsName": "The Hemic and Lymphatic Systems", "enabledEnvironements": ["production", "beta", "development"]
+    },
+    {
+     "id": "respiratory_calculator", "name": "Respiratory Calculator", "systemName": "respiratory", "displayName": "Respiratory", "vbmsName": "The Respiratory System", "enabledEnvironements": ["production", "beta", "development"]
+    },
+    {
+     "id": "scars_calculator", "name": "Scars Calculator", "systemName": "scars", "displayName": "Scars", "vbmsName": "Scars", "enabledEnvironements": ["production", "beta", "development"]
+    },
+    {
+     "id": "skin_calculator", "name": "Skin Calculator", "systemName": "skin", "displayName": "Skin", "vbmsName": "Skin System", "enabledEnvironements": ["production", "beta", "development"]
+    }
+]
