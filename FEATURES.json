@@ -6,7 +6,7 @@
         "id": "endocrine_calculator", "name": "Endocrine Calculator", "systemName": "endocrine", "displayName": "Endocrine", "vbmsName": "Endocrine System", "enabledEnvironements": ["production", "beta", "development"]
     },
     {
-        "id": "eye_conditions_calculator_visual_only", "name": "Eye Conditions Calculator (visual impairment only)", "systemName": "vision", "displayName": "Vision", "vbmsName": "Organs of Special Sense (Vision)", "enabledEnvironements": []
+        "id": "eye_conditions_calculator_visual_only", "name": "Eye Conditions Calculator (visual impairment only)", "systemName": "vision", "displayName": "Vision", "vbmsName": "Organs of Special Sense (Vision)", "enabledEnvironements": ["production", "beta", "development"]
     },
     {
         "id": "gastrointestinal_calculator", "name": "Gastrointestinal Calculator", "systemName": "digestive", "displayName": "Digestive", "vbmsName": "Digestive System", "enabledEnvironements": ["production", "beta", "development"]
